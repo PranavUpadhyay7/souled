@@ -1,0 +1,91 @@
+.c{
+    background-color: #E11B23;
+    margin:0;
+    height: 45px;
+   
+    
+}
+.b{
+    background-color: white;
+    margin: 0;
+    height: 60px;
+    border-bottom:0.7px solid 	#D0D0D0;
+    
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    box-shadow:0px 1.5px 0px 0px 		#DCDCDC;
+   
+   
+}
+.a{
+    margin: 0;
+}
+.nav{
+    display:flex;
+    text-align: right;
+    justify-content: flex-end;
+    gap: 15px;
+    color: white;
+    align-items: center;
+    
+}
+#logo {
+ position: relative;
+    height: 80px;
+    bottom: 30px;
+    left:20px
+}
+/* #SVGRepo_bgCarrier{
+    height:24px;
+    position: absolute;
+    right:90%;
+} */
+.nav a{
+    text-decoration: none;
+    color: white
+}
+.h{
+    display: flex;
+    justify-content: space-evenly;
+    gap:30px ;
+    height: 30px;
+    position: relative;
+    right: 100px;
+    
+}
+.h span img{
+    height: 30px;
+}
+#sr img{
+    height: 30px;
+    position: relative;
+    bottom: 20px;
+    left:50px;
+}
+
+
+.firim{
+    background-color:white;
+    height: 520px;
+    margin:1.5px 80px 0px 80px;
+    display:flex;
+    justify-content:center
+}
+
+.prev{
+   position: relative;
+   top: 50%;
+   left: 10px;
+}
+.nex{
+    position:relative;
+    top: 50%;
+    right: 10px;
+    
+}
+.firim img{
+    height: 100%;
+    width: 100%;
+   
+}
